@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Stacked = () => {
     return (
         <div>
-            Sidebar
+            Stacked
         </div>
     );
 };
 
-export default Sidebar;
+export default Stacked;

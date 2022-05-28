@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Pie = () => {
     return (
         <div>
-            Sidebar
+            Pie
         </div>
     );
 };
 
-export default Sidebar;
+export default Pie;
+

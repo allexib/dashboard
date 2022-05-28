@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Calendar = () => {
     return (
         <div>
-            Sidebar
+            Calendar
         </div>
     );
 };
 
-export default Sidebar;
+export default Calendar;

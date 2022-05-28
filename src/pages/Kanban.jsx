@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Kanban = () => {
     return (
         <div>
-            Sidebar
+            Kanban
         </div>
     );
 };
 
-export default Sidebar;
+export default Kanban;

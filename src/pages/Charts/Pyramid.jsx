@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Pyramid = () => {
     return (
         <div>
-            Sidebar
+            Pyramid
         </div>
     );
 };
 
-export default Sidebar;
+export default Pyramid;

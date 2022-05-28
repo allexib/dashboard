@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Ecommerce = () => {
     return (
         <div>
-            Sidebar
+            Ecommerce
         </div>
     );
 };
 
-export default Sidebar;
+export default Ecommerce;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Sidebar = () => {
+const Line = () => {
     return (
         <div>
-            Sidebar
+            Line
         </div>
     );
 };
 
-export default Sidebar;
+export default Line;
