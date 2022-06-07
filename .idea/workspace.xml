@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be4c64e1-7b31-4c14-a22a-eb2a934ffcb4" name="Default" comment="" />
+    <list default="true" id="be4c64e1-7b31-4c14-a22a-eb2a934ffcb4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Sidebar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ThemeSettings.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeSettings.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contexts/ContextProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/ContextProvider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ColorPicker.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ColorPicker.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Ecommerce.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Ecommerce.jsx" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="78" column="60" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
+            <state relative-caret-position="84">
+              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -26,11 +35,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ColorPicker.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThemeSettings.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/ThemeSettings.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ContextProvider.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/contexts/ContextProvider.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Navbar.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Navbar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ecommerce.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Ecommerce.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Sidebar.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ColorPicker.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/ColorPicker.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="337">
+              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,8 +98,8 @@
       <file leaf-file-name="Editor.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Editor.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="231">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -50,8 +110,8 @@
       <file leaf-file-name="Kanban.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Kanban.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="357">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -62,44 +122,11 @@
       <file leaf-file-name="Calendar.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Calendar.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+            <state relative-caret-position="42">
+              <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customers.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Customers.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Employees.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Employees.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Header.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Header.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -113,6 +140,12 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>settings</find>
+      <find>blue</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/components/ChartsHeader.jsx" />
         <option value="$PROJECT_DIR$/src/components/Footer.jsx" />
         <option value="$PROJECT_DIR$/src/components/Notification.jsx" />
-        <option value="$PROJECT_DIR$/src/components/ThemeSettings.jsx" />
         <option value="$PROJECT_DIR$/src/components/UserProfile.jsx" />
         <option value="$PROJECT_DIR$/src/components/Charts/index.js" />
         <option value="$PROJECT_DIR$/src/components/Charts/index.jsx" />
@@ -148,16 +180,10 @@
         <option value="$PROJECT_DIR$/src/pages/Charts/Stacked.jsx" />
         <option value="$PROJECT_DIR$/src/pages/index.jsx" />
         <option value="$PROJECT_DIR$/src/pages/ColorPick.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/ColorPicker.jsx" />
         <option value="$PROJECT_DIR$/src/context/ContextProvider.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/contexts/ContextProvider.js" />
-        <option value="$PROJECT_DIR$/src/components/Navbar.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/Button.jsx" />
         <option value="$PROJECT_DIR$/src/components/Charts/SparkLine.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/Ecommerce.jsx" />
         <option value="$PROJECT_DIR$/src/components/Charts/Stacked.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Orders.jsx" />
         <option value="$PROJECT_DIR$/src/components/Header.jsx" />
@@ -166,6 +192,13 @@
         <option value="$PROJECT_DIR$/src/pages/Calendar.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Kanban.jsx" />
         <option value="$PROJECT_DIR$/src/pages/Editor.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/ColorPicker.jsx" />
+        <option value="$PROJECT_DIR$/src/components/ThemeSettings.jsx" />
+        <option value="$PROJECT_DIR$/src/contexts/ContextProvider.js" />
+        <option value="$PROJECT_DIR$/src/components/Navbar.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/Ecommerce.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Sidebar.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -222,6 +255,12 @@
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="contexts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,12 +338,13 @@
       <workItem from="1654174515470" duration="3819000" />
       <workItem from="1654240871429" duration="6249000" />
       <workItem from="1654348650852" duration="6083000" />
-      <workItem from="1654533672063" duration="2828000" />
+      <workItem from="1654533672063" duration="3188000" />
+      <workItem from="1654618801398" duration="3378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56673000" />
+    <option name="totallyTimeSpent" value="60411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1341" y="0" width="1229" height="1035" extended-state="0" />
@@ -315,8 +355,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32887402" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17279822" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -526,13 +566,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ThemeSettings.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/UserProfile.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -574,38 +607,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/contexts/ContextProvider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navbar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="67" column="15" lean-forward="true" selection-start-line="67" selection-start-column="15" selection-end-line="67" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Button.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="84" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Ecommerce.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -656,8 +661,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Customers.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        <state relative-caret-position="273">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -666,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Calendar.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="58" lean-forward="true" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        <state relative-caret-position="42">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -676,8 +681,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Kanban.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="357">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -686,28 +691,69 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Editor.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="231">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/ColorPicker.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="78" column="60" selection-start-line="78" selection-start-column="60" selection-end-line="78" selection-end-column="60" />
+        <state relative-caret-position="337">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/ColorPicker.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/ThemeSettings.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="231">
+          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/contexts/ContextProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Ecommerce.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Sidebar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
